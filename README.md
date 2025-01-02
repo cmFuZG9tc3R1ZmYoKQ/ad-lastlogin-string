@@ -8,6 +8,11 @@ Before running the script, ensure the following custom attributes are created in
 
 - `lastLoginString`
 
+Python3 Modules
+
+- ldap3
+- winkerberos
+
 ### Creating Custom Attributes
 
 You can use the following guide to create these attributes:
