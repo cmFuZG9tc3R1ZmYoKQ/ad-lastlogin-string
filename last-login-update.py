@@ -2,8 +2,8 @@ from ldap3 import Server, Connection, SASL, KERBEROS, ALL, MODIFY_REPLACE
 from datetime import datetime, timedelta
 
 ####################################################
-server_address = 'ldap://name.domain.local'
-base_dn = 'DC=domain,DC=local'
+server_address = 'ldap://name.domain.local' #change this
+base_dn = 'DC=domain,DC=local' #change this
 ####################################################
 
 def header():
